@@ -3,7 +3,7 @@ title: Previewing your game
 ---
 # Previewing your game
 
-After opening a project, you can launch a preview of it at any time using the **Preview** button on the GDevelop toolbar. You can also access more options by clicking on the drop-down menu to the right of the preview button.
+After opening a project, you button on the GDevelop toolbar. You can also access more options by clicking on the drop-down menu to the right of the preview button.
 
 ## Launch a preview of a scene
 
